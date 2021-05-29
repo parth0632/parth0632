@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @parth0632
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning React.js.
+- 💞️ I’m looking to collaborate on React.js.
+- 📫 How to reach me :-- You can connect with me on LinkedIn. (https://www.linkedin.com/in/parth-sharma-1bba3a1a8/).

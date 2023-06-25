@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @parth0632
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Backend development.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me :-- You can connect with me on [LinkedIn Profile] (https://www.linkedin.com/in/parth-sharma-1bba3a1a8/).
